@@ -1,6 +1,10 @@
 #include <iostream>
 #include <cstring>
 
+
+// struct only differs from class in that class members private and struct members are public. 
+
+
 struct Books
 {
     char title[50];
